@@ -3,7 +3,7 @@
  * Dynamic Include Script
  * ----------------------------------------------------------
  * Author: YoHaiYo
- * GitHub : https://github.com/YoHaiYo/
+ * GitHub : https://github.com/YoHaiYo/includeHTML/
  * License: MIT
  * ----------------------------------------------------------
  * Description:

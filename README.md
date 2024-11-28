@@ -96,27 +96,27 @@ Here’s how you can use the `<include>` tag to dynamically insert external HTML
 
 ## **Copyright and License**
 
-```markdown
-==========================================================
-Dynamic Include Script
+```
+ ==========================================================
+ Dynamic Include Script
+ ----------------------------------------------------------
+ Author: YoHaiYo
+ GitHub : https://github.com/YoHaiYo/includeHTML/
+ License: MIT
+ ----------------------------------------------------------
+ Description:
+ This script enables dynamic inclusion of external HTML like Django.
+ components using a custom <include> tag. Specify the
+ file path with the "src" attribute, and this script will
+ load the file's content and replace the tag in the DOM.
 
----
-
-Author: YoHaiYo
-License: MIT
-
----
-
-Description:
-This script allows dynamic inclusion of external HTML
-components via a custom <include> tag.
-
----
-
-Copyright 2024 YoHaiYo. All rights reserved.
-Unauthorized reproduction or distribution of this code
-without express written permission is strictly prohibited.
-==========================================================
+ Copyright 2024 YoHaiYo. All rights reserved.
+ Unauthorized reproduction or distribution of this code
+ without express written permission is strictly prohibited.
+ ----------------------------------------------------------
+ Example Usage:
+ <include src="./header.html"></include>
+ ==========================================================
 ```
 
 ---
