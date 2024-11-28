@@ -14,7 +14,7 @@ To use this script, simply include the following CDN in the `<head>` of your HTM
 
 ```html
 <script
-  src="https://cdn.jsdelivr.net/gh/YoHaiYo/html-component@main/v1/includeHTML.js"
+  src="https://cdn.jsdelivr.net/gh/YoHaiYo/includeHTML@main/v1/includeHTML.js"
   defer
 ></script>
 ```
@@ -33,7 +33,7 @@ Here’s how you can use the `<include>` tag to dynamically insert external HTML
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dynamic Include Example</title>
     <script
-      src="https://cdn.jsdelivr.net/gh/YoHaiYo/html-component@main/v1/includeHTML.js"
+      src="https://cdn.jsdelivr.net/gh/YoHaiYo/includeHTML@main/v1/includeHTML.js"
       defer
     ></script>
   </head>
